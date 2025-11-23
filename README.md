@@ -60,8 +60,8 @@ Main goal of this project is to evaluate how different modeling approaches handl
   - **Introvert** → 6676 samples  
   - **Extrovert** → 1999 samples  
 - Stored in:  
-  `mbti_traditional.csv` (for classical ML)
-  `mbti_deeplearning.csv` (for transformers)  
+  `mbti_traditional_new.csv` (for classical ML)
+  `mbti_deeplearning_new.csv` (for transformers)  
 
 ---
 
