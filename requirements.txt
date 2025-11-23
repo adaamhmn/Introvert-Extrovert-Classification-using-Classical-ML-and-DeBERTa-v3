@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+wordcloud
+emoji
+nltk
+scikit-learn
+scipy
+gensim
+imbalanced-learn
+joblib
+torch
+transformers
+datasets
+sentencepiece
