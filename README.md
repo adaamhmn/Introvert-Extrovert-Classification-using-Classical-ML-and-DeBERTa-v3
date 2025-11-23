@@ -3,6 +3,9 @@
 This project builds a machine learning system that can predict **Introvert** or **Extrovert** personality traits from comments.  
 The project compares how **traditional NLP + ML models** (TF-IDF, FastText, Logistic Regression, Random Forest) and a fine-tuned **DeBERTa-v3 transformer model** perform.
 
+- Original dataset: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type).
+- Cleaned dataset can be downloaded [HERE](https://www.kaggle.com/datasets/adammuhaimin/mbti-preprocessed).
+
 Main goal of this project is to evaluate how different modeling approaches handle:
 - noisy Reddit-style text,
 - personality language patterns,
@@ -36,8 +39,6 @@ Main goal of this project is to evaluate how different modeling approaches handl
 ---
 
 ## About Dataset
-
-- Original dataset: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type).
 
 - Cleaned version for Classical ML:
   - Replace '|||' separator with space
