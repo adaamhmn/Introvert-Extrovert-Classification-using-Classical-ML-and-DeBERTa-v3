@@ -37,7 +37,7 @@ Main goal of this project is to evaluate how different modeling approaches handl
 
 ## About Dataset
 
-- Original dataset: **[<MBTI text post Dataset>](<[Your Download Link here](https://www.kaggle.com/datasets/datasnaek/mbti-type)>)** 
+- Original dataset: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type).
 
 - Cleaned version for Classical ML:
   - Replace '|||' separator with space
