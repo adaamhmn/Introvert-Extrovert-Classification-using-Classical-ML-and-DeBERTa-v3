@@ -1,7 +1,6 @@
 # Introvert-Extrovert-Classification-using-Classical-ML-and-DeBERTa-v3
 
-This project builds a machine learning system that can predict **Introvert** or **Extrovert** personality traits from comments.  
-The project compares how **traditional NLP + ML models** (TF-IDF, FastText, Logistic Regression, Random Forest) and a fine-tuned **DeBERTa-v3 transformer model** perform.
+This project builds a machine learning system that can predict **Introvert** or **Extrovert** personality traits from comments and compares how **traditional NLP + ML models** (TF-IDF, FastText, Logistic Regression, Random Forest) and a fine-tuned **DeBERTa-v3 transformer model** perform.
 
 - Original dataset: [(MBTI) Myers-Briggs Personality Type Dataset](https://www.kaggle.com/datasets/datasnaek/mbti-type).
 - Cleaned dataset can be downloaded [HERE](https://www.kaggle.com/datasets/adammuhaimin/mbti-preprocessed).
